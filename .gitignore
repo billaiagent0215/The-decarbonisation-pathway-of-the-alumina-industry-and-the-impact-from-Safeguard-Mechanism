@@ -1,0 +1,5 @@
+# Only the slide deck is published; everything else in this folder stays local.
+*
+!.gitignore
+!README.md
+!ENGY7112_Oral_Presentation.html
